@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Data Science projects
 
 
-### [Data Science Projects](https://github.com/waltervt/Data_Science_Projects)
+### [My Data Science Projects](https://github.com/waltervt/Data_Science_Projects)
 
 
 ### Connect with me:
