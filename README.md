@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science projects
 
+
+### [Data Science Projects](https://github.com/waltervt/Data_Science_Projects)
+
+
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/waltervt/)
