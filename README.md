@@ -29,6 +29,8 @@
 
 <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" />
 
+<br />
+
 ---
 
 ### [My Data Science Projects](https://github.com/waltervt/Data_Science_Projects)
