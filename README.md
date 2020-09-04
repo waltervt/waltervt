@@ -29,9 +29,11 @@
 
 <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" />
 
-<br />
+<br /><br />
 
 ---
+
+<br />
 
 ### [My Data Science Projects](https://github.com/waltervt/Data_Science_Projects)
 - [E-Commerce Data Analysis](https://github.com/waltervt/Data_Science_Projects/blob/master/E-Commerce%20Data%20Analysis/README.md)
