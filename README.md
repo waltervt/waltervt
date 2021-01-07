@@ -13,7 +13,7 @@
 [<img align="left"  width="22px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />](https://public.tableau.com/profile/walter7144#!/)
 
 
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -29,15 +29,13 @@
 
 <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" />
 
-<br />
-<br />
+<br><br>
 
 ---
 
-### [My Data Science Projects](https://github.com/waltervt/Data_Science_Projects)
-- [E-Commerce Data Analysis](https://github.com/waltervt/Data_Science_Projects/blob/master/E-Commerce%20Data%20Analysis/README.md)
-  - [Tableau Dashboard](https://public.tableau.com/profile/walter7144#!/vizhome/E-CommerceAnalysis_15978372527630/SalesOverview?publish=yes)
-  - [Jupyter Noterbook](https://github.com/waltervt/Data_Science_Projects/blob/master/E-Commerce%20Data%20Analysis/E-Commerce_Data_Analysis.ipynb)
+### [My Portfolio](https://waltervt.github.io/)
+
+### [My Data Science Projects Repo](https://github.com/waltervt/Data_Science_Projects)
 
 <!--
 **waltervt/waltervt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
